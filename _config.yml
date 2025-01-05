@@ -1,13 +1,13 @@
-title: Parchment
-author: pro-panda
-subtitle: The life of a frustrated engineer
+title: b1bim
+author: b1bim
+subtitle: The life of a orninary person
 
-url: "https://rahulbothra.com"
-baseurl: "/parchment"
+url: "https://b1bim.github.io"
+baseurl: "/"
 
 footer_only_homepage: true
-footer_url: "https://github.com/rhl-bthr"
-footer_text: "Theme by rhl-bthr"
+footer_url: "https://github.com/b1bim"
+footer_text: "흔적"
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
